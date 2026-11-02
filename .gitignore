@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch weights & checkpoints
+checkpoints/
+*.pt
+*.pth
+*.pwf
+
+# Datasets and cache
+data/
+torch_cache/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
